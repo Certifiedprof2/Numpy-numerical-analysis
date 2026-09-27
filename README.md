@@ -96,7 +96,7 @@ It is also about understanding how numerical data can be represented, processed 
 
 I practiced the following learning process:
 
-``` text
+ text
 Understand the problem
         ↓
 Represent the data
