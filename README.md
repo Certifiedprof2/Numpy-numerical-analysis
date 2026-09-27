@@ -1,4 +1,4 @@
-# NumPy Mathematical Operations, Equations & Sequences 🐍📊
+# NumPy Mathematical Operations, Equations & Sequences 
 
 ##  Project Overview
 
